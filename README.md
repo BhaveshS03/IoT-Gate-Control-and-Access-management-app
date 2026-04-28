@@ -24,7 +24,7 @@
 <h2 style="font-family: Arial, sans-serif; font-size: 2em; color: #444;">Technology Stack</h2>
 <ul style="font-family: Arial, sans-serif; font-size: 1.1em; color: #666;">
   <li><strong>Frontend:</strong> React Native, Expo</li>
-  <li><strong>Backend:</strong> Node.js</li>
+  <li><strong>Backend:</strong> Node.js, Express JS, SQL </li>
   <li><strong>Messaging Protocol:</strong> Paho-MQTT for real-time communication with IoT devices.</li>
 </ul>
 
